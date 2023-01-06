@@ -26,9 +26,9 @@ class Screen0 extends StatelessWidget {
                 foregroundColor: MaterialStateProperty.all(Colors.white),
                 backgroundColor: MaterialStateProperty.all(Colors.blue),
               ),
-              child: Text('Go To Screen 1'),
+              child: Text('Go To Screen 2'),
               onPressed: () {
-                //Navigate to Screen 1
+                //Navigate to Screen 2
               },
             )
           ],
